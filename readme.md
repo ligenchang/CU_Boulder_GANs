@@ -53,3 +53,7 @@ The model showed stable convergence over 4 epochs:
 - Discriminator B (Photo) loss: ~0.59
 
 The generated images demonstrate softer, painterly qualities with warmer color palettes and subtle brushstroke textures. However, the transformations are relatively subtle due to limited training epochs.
+
+### Kaggle Leaderboard Position
+
+![Kaggle Position](images.png)
